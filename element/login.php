@@ -4,6 +4,7 @@
     <title>Login</title>
     <link rel="stylesheet" type="text/css" href="../assets/css/style.css">
     <link href="https://fonts.googleapis.com/css?family=Poppins:600&display=swap" rel="stylesheet">
+    <link rel="icon" href="https://img.freepik.com/premium-vector/indonesia-map-flag-vector-map-icon-with-highlighted-indonesia_292608-17949.jpg?w=2000" type="image/x-icon">
     <script src="https://kit.fontawesome.com/a81368914c.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
